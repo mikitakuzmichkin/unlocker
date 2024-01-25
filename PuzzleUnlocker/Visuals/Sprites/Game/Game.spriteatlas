@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4a37fbdfcb1bdaa4e8f8ac82d58c8803, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d5f39360e0e515d4a8e137f2a928ee28, type: 3}
+  - {fileID: 21300000, guid: d4a9cd805d3cddd4280b70ea2da65c3d, type: 3}
+  - {fileID: 21300000, guid: cfcdaef4227775543b00a08713fa87e1, type: 3}
+  - {fileID: 21300000, guid: b2ee8a558bedb6248bf607804cb90ba6, type: 3}
+  - {fileID: 21300000, guid: a52e7336017b03147b0b5459a30130c3, type: 3}
+  - {fileID: 21300000, guid: 8d254a56de6933c41809f7b13b0a6cf0, type: 3}
+  - {fileID: 21300000, guid: 000ed90b897baba4885ca8ba866208cb, type: 3}
+  - {fileID: 21300000, guid: 41ee850c9f817a34da724310e6395e88, type: 3}
+  - {fileID: 21300000, guid: a4dc185c999bff242b0fa2db1f774b70, type: 3}
+  - {fileID: 21300000, guid: 4ea6824deccf2ca4580cc6ebde620f46, type: 3}
+  - {fileID: 21300000, guid: bb774f2e64b81ad44bd7cae945f9fce7, type: 3}
+  - {fileID: 21300000, guid: 03f1a3df71abcb84fa16573a257a11af, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - scores
+  - Level
+  - cube_3
+  - cube_4
+  - BOTTON_01
+  - cube_2
+  - cube_1
+  - shadow
+  - cube_6
+  - BOTTON_02
+  - Ball
+  - cube_5
+  m_RenderDataMap: {}
+  m_Tag: Game
+  m_IsVariant: 0

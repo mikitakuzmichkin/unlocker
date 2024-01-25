@@ -1,0 +1,204 @@
+[
+  {
+    "Stage": "Number",
+    "TutorialSteps": [
+      {
+        "Id": 0,
+        "ShowBeforeLevel": 0,
+        "LevelData": {
+          "$type": "PuzzleUnlocker.Gameplay.Level.LevelDataInteger, Assembly-CSharp",
+          "_array": [
+            1,
+            -3,
+            1,
+            2,
+            1,
+            1
+          ],
+          "_target": 0,
+          "_targetType": 1,
+          "selected_indices": [
+            1
+          ],
+          "targets_count": 0,
+          "id": 0,
+          "type": "Number"
+        }
+      },
+      {
+        "Id": 1,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      },
+      {
+        "Id": 2,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      },
+      {
+        "Id": 3,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      }
+    ]
+  },
+  {
+    "Stage": "Cube",
+    "TutorialSteps": [
+      {
+        "Id": 0,
+        "ShowBeforeLevel": 12,
+        "LevelData": {
+          "$type": "PuzzleUnlocker.Gameplay.Level.LevelDataInteger, Assembly-CSharp",
+          "_array": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ],
+          "_target": 5,
+          "_targetType": 0,
+          "selected_indices": null,
+          "targets_count": 2,
+          "id": 0,
+          "type": "Cube"
+        }
+      },
+      {
+        "Id": 1,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      }
+    ]
+  },
+  {
+    "Stage": "Color",
+    "TutorialSteps": [
+      {
+        "Id": 0,
+        "ShowBeforeLevel": 26,
+        "LevelData": {
+          "$type": "PuzzleUnlocker.Gameplay.Level.LevelDataColor, Assembly-CSharp",
+          "_floatsArray": [
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ]
+          ],
+          "_target": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "selected_indices": null,
+          "targets_count": 2,
+          "id": 0,
+          "type": "Color"
+        }
+      },
+      {
+        "Id": 1,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      },
+      {
+        "Id": 2,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      }
+    ]
+  },
+  {
+    "Stage": "Figure",
+    "TutorialSteps": [
+      {
+        "Id": 0,
+        "ShowBeforeLevel": 36,
+        "LevelData": {
+          "$type": "PuzzleUnlocker.Gameplay.Level.LevelDataFigure, Assembly-CSharp",
+          "_array": [
+            {
+              "StartInd": 1,
+              "LinesCount": 1,
+              "MaxInd": 3
+            },
+            {
+              "StartInd": 1,
+              "LinesCount": 1,
+              "MaxInd": 3
+            },
+            {
+              "StartInd": 1,
+              "LinesCount": 1,
+              "MaxInd": 3
+            },
+            {
+              "StartInd": 2,
+              "LinesCount": -1,
+              "MaxInd": 3
+            },
+            {
+              "StartInd": 2,
+              "LinesCount": -1,
+              "MaxInd": 3
+            },
+            {
+              "StartInd": 2,
+              "LinesCount": -1,
+              "MaxInd": 3
+            }
+          ],
+          "selected_indices": [],
+          "targets_count": 1,
+          "id": 0,
+          "type": "Figure"
+        }
+      },
+      {
+        "Id": 1,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      },
+      {
+        "Id": 2,
+        "ShowBeforeLevel": null,
+        "LevelData": null
+      }
+    ]
+  }
+]

@@ -1,9 +1,0 @@
-<linker>
-    <!--JSON Serialization-->
-    <assembly fullname="Assembly-CSharp">
-        <type fullname="PuzzleUnlocker.Gameplay.Level.LevelDataInteger" preserve="all"/>
-        <type fullname="PuzzleUnlocker.Gameplay.Level.LevelDataColor" preserve="all"/>
-        <type fullname="PuzzleUnlocker.Gameplay.Level.LevelDataFigure" preserve="all"/>
-        <type fullname="PuzzleUnlocker.Tutorials.TutorialData" preserve="all"/>
-    </assembly>
-</linker>

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MenuPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c5be6d1424d6c6d41a41d56e57b57b0d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2e0b7b74a65d8fb4cbfff544619d933a, type: 3}
+  - {fileID: 21300000, guid: 1da77625ff34de04b963da46a1c6745a, type: 3}
+  - {fileID: 21300000, guid: 22cb1e759ccb2e8479c4ddd9094bb69a, type: 3}
+  - {fileID: 21300000, guid: 4699768756a2e1849bee0400960002e0, type: 3}
+  - {fileID: 21300000, guid: 7326e278aabbaeb4cbdf7fe77e62a1a3, type: 3}
+  - {fileID: 21300000, guid: c1005d6ac6f2b804397a0b35df1b8f98, type: 3}
+  - {fileID: 21300000, guid: 9b20b57ba490b4745b689cf09de8b758, type: 3}
+  - {fileID: 21300000, guid: 2c5e59fe5c161794ebe6f31fb3b78a24, type: 3}
+  - {fileID: 21300000, guid: ce72228f7d7625a4f8022efda65c8186, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - img-icon-sound@3x
+  - img-icon-feedback@3x
+  - vibro+
+  - T_C
+  - img-icon-no_ads@3x
+  - priv
+  - vibro
+  - img-button-close@3x
+  - img-panel-bg@3x
+  m_RenderDataMap: {}
+  m_Tag: MenuPopup
+  m_IsVariant: 0
